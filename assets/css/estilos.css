@@ -35,22 +35,22 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
-  }
+    justify-content: center;
+   }
 
-}
+ }
 
 .inicio {
 font-size: 28px;
 opacity: 100%;
 color: yellowgreen;
+font-weight: bold;
 }
+
 
 .font{
 color: yellowgreen;
 }
 
-.fondo{
-background-color: black;
-}
